@@ -11,6 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "msnodesqlv8": "^5.2.0",
+    "mssql": "^12.5.2",
+    "mysql2": "^3.22.3"
   }
 }
